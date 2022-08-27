@@ -1,45 +1,36 @@
-# flutter_ecommerce_app
+<h1 align="center">
+  Flutter E-Commerce App
+</h1>
+<p align="center">
+This project is basically A flutter app which is an E-Commerce App using Dart Programming language .
+</p>
+<p align="center">
+<a href="https://github.com/Rakib00111/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/Rakib00111/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
+</a>
+<a href="https://github.com/Rakib00111/github-profile-readme-generator/fork" target="blank">
+<img src="https://img.shields.io/github/forks/Rakib00111/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/Rakib00111/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/Rakib00111/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/Rakib00111/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/Rakib00111/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/Rakib00111/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/Rakib00111/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
+<a href="https://discord.gg/HHMs7Eg" target="blank">
+<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
+</a>
+</p>
+## Requirements 
 
-A new Flutter project.
+- Any Operating System (MacOS, Linux, Windows)
+- Android Studio IDE with Dart SDK installed (Android studio, Dart sdk)
+- A little knowledge of dart or any other programming languages 
 
-## Getting Started
+## Auther
+Rakib_khan  khanrakib218@gmail.com
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-code structure
-lib
-│───main.dart    
-└───src
-│───config
-|    └──route.dart
-│───model
-│    │──category.dart
-|    │──data.dart
-|    └──product.dart
-│───pages
-|    │──homePage.dart
-|    │──mainPage.dart
-|    │──product_detail.dart
-|    └──shoping_cart_page.dart
-│───theme
-|    │──light_color.dart
-|    └──theme.dart
-└───widgets
-│──BottomNavigationBar
-|   |──bootom_navigation_bar.dart
-|   |──bottom_curved_Painter.dart
-|   └──centered_elasticIn_curve.dart
-|──bottom_navigation_bar.dart
-|  customRoute.dart
-|  prduct_icon.dart
-│──product_card.dart
-└──title_text.dart
+![](https://github.com/Rakib00111/Dart_Practice/blob/main/Dart_image.jpg)
